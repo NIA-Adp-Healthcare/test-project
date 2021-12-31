@@ -1,0 +1,5 @@
+names:
+- Polyp
+nc: 1
+train: /content/drive/My Drive/DeepLearning/Dataset/Detection/polyps_train_kvasir7000_relat_ccwh_integ/train.txt
+val: /content/drive/My Drive/DeepLearning/Dataset/Detection/polyps_train_kvasir7000_relat_ccwh_integ/val.txt

@@ -1,0 +1,5 @@
+names:
+- Cancer
+nc: 1
+train: /home/aigpuserver/data/yolo_dataset/train.txt
+val: /home/aigpuserver/data/yolo_dataset/val.txt
